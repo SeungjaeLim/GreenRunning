@@ -23,11 +23,16 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+body {
+  background-color: #CCFF9E;
+}
 
 .App-link {
   color: #61dafb;
 }
-
+.body {
+  background-color: olive;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

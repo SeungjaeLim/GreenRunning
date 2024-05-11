@@ -2,7 +2,7 @@
 import React from 'react';
 import { CssBaseline, Container, Grid, Box } from '@mui/material';
 import Clock from './components/Clock';
-import './App.css';
+import './App.css'
 import MapView from './components/MapView';
 import FloggingControls from './components/FloggingControls';
 
