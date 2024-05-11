@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/GreenRunning/static/css/main.7d72cf6d.css",
+    "main.css": "/GreenRunning/static/css/main.5615d862.css",
     "main.js": "/GreenRunning/static/js/main.827417a3.js",
     "static/js/453.c2b2afdb.chunk.js": "/GreenRunning/static/js/453.c2b2afdb.chunk.js",
     "index.html": "/GreenRunning/index.html",
-    "main.7d72cf6d.css.map": "/GreenRunning/static/css/main.7d72cf6d.css.map",
+    "main.5615d862.css.map": "/GreenRunning/static/css/main.5615d862.css.map",
     "main.827417a3.js.map": "/GreenRunning/static/js/main.827417a3.js.map",
     "453.c2b2afdb.chunk.js.map": "/GreenRunning/static/js/453.c2b2afdb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d72cf6d.css",
+    "static/css/main.5615d862.css",
     "static/js/main.827417a3.js"
   ]
 }
