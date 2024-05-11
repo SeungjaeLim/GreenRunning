@@ -43,7 +43,7 @@ function ImageModal({ imageIndex, open, onClose }) {
                 >
                     <CloseIcon />
                 </IconButton>
-                <img src={`/images/${imageIndex}.png`} alt="Flog" style={{ width: '100%', maxHeight: '100%', display: 'block' }} />
+                <img src={`${process.env.PUBLIC_URL}/images/${imageIndex}.png`} alt="Flog" style={{ width: '100%', maxHeight: '100%', display: 'block' }} />
                 <Button variant="contained" color="primary">
                         플로그 소장하기
                     </Button>
